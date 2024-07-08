@@ -1,2 +1,2 @@
-import Emoji from "./emojiSearch"
-export default Emoji
+/*import Emoji from "./emojiSearch"
+export default Emoji*/

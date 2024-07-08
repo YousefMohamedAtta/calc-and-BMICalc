@@ -1,7 +1,7 @@
 import './App.css'
 import Calc from './components/calculator'
 import BMI from './components/calculatorBmi'
-import Emoji from './components/emojiSearch'
+//import Emoji from './components/emojiSearch'
 
 import { useState } from "react"
 import { ImCalculator } from "react-icons/im";

@@ -2,8 +2,8 @@ import { useState } from "react";
 
 export default function CalculatorBMI() {
   const [age, setAge] = useState<number>();
-  const [weight, setWeight] = useState<number>();
-  const [height, setHeight] = useState<number>();
+  const [weight, setWeight] = useState<number>(0);
+  const [height, setHeight] = useState<number>(0);
   const [bmi, setBmi] = useState<number | undefined>();
   const [msg, setMsg] = useState<string | undefined>();
 
